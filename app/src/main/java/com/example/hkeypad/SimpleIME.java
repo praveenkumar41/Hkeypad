@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
-
+// HKeypad App
 public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyboardActionListener
 {
     String data="",importantstr="";
